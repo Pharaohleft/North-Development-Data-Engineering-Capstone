@@ -1,4 +1,4 @@
-# North-Development---Capstone-Project
+
 
 # SQL Database for New Development Market Analysis  
 **Brickell & Downtown Miami**
