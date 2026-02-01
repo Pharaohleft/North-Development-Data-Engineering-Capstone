@@ -1,6 +1,6 @@
 
 
-# SQL Database for New Development Real Estate Market Analysis  
+# SQL Database for Real Estate Market Analysis  
 **Brickell & Downtown Miami for NORTH DEVELOPMENT, MIAMI**
 
 ---
